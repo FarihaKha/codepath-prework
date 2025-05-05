@@ -21,6 +21,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/2748f24bc3ed4450b9a0e9b82350f427">
+    </a>
+    <a href="https://www.loom.com/share/2748f24bc3ed4450b9a0e9b82350f427">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2748f24bc3ed4450b9a0e9b82350f427-a38e10add8a69502-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 - Add animations  
 - Let users customize colors 
