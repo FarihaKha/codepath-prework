@@ -22,14 +22,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+- Add animations  
+- Let users customize colors 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+### Challenges  
+- Auto-layout warnings  
+- Connecting buttons to code  
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Fariha Kha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
