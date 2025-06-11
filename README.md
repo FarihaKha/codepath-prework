@@ -12,8 +12,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users can see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
 
 <div>
     <a href="https://www.loom.com/share/2748f24bc3ed4450b9a0e9b82350f427">
